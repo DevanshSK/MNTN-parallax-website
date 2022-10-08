@@ -1,11 +1,7 @@
 ## Build A Responsive Adventures Website With HTML, CSS, and JavaScript
 
-> Improve your HTML and CSS skills by building a responsive website. After completing this lesson, you will be able to create responsive layouts using Flexbox and Grid.
+> This is a website of an adventure brand named MNTN
 
-#### Watch the video [here](https://youtu.be/3-t3Zmtsvb8)
+#### Live Website link : [https://devanshsk.github.io/MNTN-parallax-website/](https://devanshsk.github.io/MNTN-parallax-website/)
 
 ![Project humbnail](/thumbnail.jpg)
-
-### Notes
-
-> 
