@@ -1,4 +1,4 @@
-## Build A Responsive Adventures Website With HTML, CSS, and JavaScript
+## Responsive Adventures Website With HTML, CSS, and JavaScript
 
 > This is a website of an adventure brand named MNTN
 
